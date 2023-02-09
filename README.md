@@ -13,4 +13,3 @@ Projeto baseado em: https://www.youtube.com/watch?v=fU4o_BKaUZE&list=WL&index=10
 <img src="https://github.com/jonathanoliveirarocha/Gerador-de-Imagens-AI/blob/main/SAMPLE.png">
 </td> 
 </table>
-
