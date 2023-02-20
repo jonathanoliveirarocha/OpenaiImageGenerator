@@ -1,17 +1,16 @@
-# Gerador-de-imagens-openai
-Site para Gerar imagens usando inteligencia artificial em Node.js, fornecido pela API de: <a href="https://platform.openai.com">OpenAI</a>
+# OpenAI Image Generator
+Site to generate images using artificial intelligence in Node.js, provided by the API of: <a href="https://platform.openai.com">OpenAI</a>
 
-Projeto baseado em: <a href="https://www.youtube.com/watch?v=fU4o_BKaUZE">Build An AI Image Generator With OpenAI & Node.js</a>
+Project based on: <a href="https://www.youtube.com/watch?v=fU4o_BKaUZE">Build An AI Image Generator With OpenAI & Node.js</a>
 
 
-Para rodar o app, é preciso primeiro gerar uma chave de API em: <a href="https://openai.com/api">OpenAI API</a>, substituindo <CHAVE-API-AQUI> na pasta "controllers" no arquivo "openaiController.js", e depois instalar o Node.js em: <a href="https://nodejs.org/en/download">Node.js</a>. Após isso, instale as dependências com o comando: 
-
+To run the app, you must first generate an API key at: <a href="https://openai.com/api">OpenAI API</a>, replacing <API-KEY-HERE> in the "controllers" folder " in the "openaiController.js" file, and then install Node.js from: <a href="https://nodejs.org/en/download">Node.js</a>. After that, install the dependencies with the command:
 ```bash
 npm install
 
 ```
 
-Para rodar o servidor:
+To run the server:
 ```bash
 npm start
 
