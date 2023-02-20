@@ -1,5 +1,5 @@
 # OpenAI Image Generator
-Site to generate images using artificial intelligence in Node.js, provided by the API of: <a href="https://platform.openai.com">OpenAI</a>
+Site to generate images using artificial intelligence in Node.js, provided by API of: <a href="https://platform.openai.com">OpenAI</a>
 
 Project based on: <a href="https://www.youtube.com/watch?v=fU4o_BKaUZE">Build An AI Image Generator With OpenAI & Node.js</a>
 
